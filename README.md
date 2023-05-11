@@ -10,9 +10,10 @@ Tentu jika digunakan dengan baik, segmentasi pelanggan ini dapat memberikan bany
 **Business Insight:**
 * Angka customer yang ikut program FFP terus naik dari tahun ke tahun walaupun sempat turun pada tahun 2009 tetapi kembali naik pada tahun 2010, dan paling tinggi pada tahun 2012. 
 * Terdapat penurunan customer yang sangat drastis pada tahun 2013, dimana sebelumnya angka customer selalu meningkat tiap tahunnya. <br>
-![Alt text]('output1.png')
+![Alt text](https://github.com/lutfiahusnakhoirunnisa/Airline-Customer-Segmentation/blob/main/output1.png)
 
-Perlu ditinjau kembali alasan penurunan customer pada 2013, jika melihat jumlah customer pada tahun 2012 yang sangat tinggi mengindikasikan terjadi hal penting yang menyebabkan penurunan drastis pada 2013.
+   Perlu ditinjau kembali alasan penurunan customer pada 2013, jika melihat jumlah customer pada tahun 2012 yang sangat tinggi mengindikasikan terjadi hal penting yang 
+   menyebabkan penurunan drastis pada 2013.
 * Penggunaan poin atau diskon customer masih terbilang rendah, hal ini mengindikasikan bahwa kampanye masih perlu ditingkatkan. Perlu ditinjau lagi apakah memang terdapat kendala seperti diskon yang diberikan kurang menarik di mata customer, atau campaign yang diberikan kurang sampai kepada customer, atau ada penyebab lain seperti proses penukaran poin yang rumit sehingga customer malas menggunakannya, dan sebagainya.
 
 **Hasil Cluster yang terbentuk**
